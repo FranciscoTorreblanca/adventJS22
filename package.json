@@ -1,0 +1,19 @@
+{
+    "name": "adventJS22",
+    "version": "0.0.1",
+    "description": "My solutions to challenges of adventJS 2022",
+    "main": "index.js",
+    "repository": "https://github.com/FranciscoTorreblanca/adventJS22.git",
+    "author": "Francisco Torreblanca <francisco.torreblanca15@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "devDependencies": {
+        "jest": "^29.3.1"
+    },
+    "bugs": {
+        "url": "https://github.com/FranciscoTorreblanca/adventJS22/issues"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
